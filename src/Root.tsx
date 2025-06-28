@@ -5,7 +5,7 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        id="WorldMilkDay"
+        id="MyVideo"
         component={MyVideo}
         durationInFrames={300}
         fps={30}
